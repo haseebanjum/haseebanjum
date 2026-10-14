@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**haseebanjum/haseebanjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher. I hunt vulnerabilities in web apps — authz flaws, IDORs, logic bugs — and report them through responsible disclosure.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Security Research** — Manual vulnerability hunting and bug bounties. Focus on authz/IDOR, access control, and logic flaws.
+- **SEO** — Technical SEO, site audits, and optimization.
+- **Servers & Hosting** — Server setup, management, and hardening.
+- **Linux** — CentOS, AlmaLinux, cPanel, CentOS Web Panel, CyberPanel.
+
+## Connect
+
+- X: [@GadgTecs](https://x.com/GadgTecs)
